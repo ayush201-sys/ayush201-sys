@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ayush Pandey 👋
 
-<!--
-**ayush201-sys/ayush201-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate (2025) with interests in Python, Machine Learning, and backend development.
+Author and presenter at an IEEE international conference.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, Java, C++
+- Machine Learning, Image Classification, Predictive Modeling
+- SQL, MongoDB
+- HTML, CSS, JavaScript, React (basic), Node.js (basic)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- AI-Driven Crop Yield Prediction
+- Image Classification Model
+- MNIST Digit Classifier
+- Student Management System
+
+## 📫 Contact
+- Email: aayush223@gmail.com
+- LinkedIn: <your-link>
