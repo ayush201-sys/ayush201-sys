@@ -18,4 +18,4 @@ Author and presenter at an IEEE international conference.
 
 ## 📫 Contact
 - Email: aayush223@gmail.com
-- LinkedIn: <your-link>
+- LinkedIn: <http://www.linkedin.com/in/ayush-pandey-786r1>
