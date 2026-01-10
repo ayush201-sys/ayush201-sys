@@ -17,5 +17,5 @@ Author and presenter at an IEEE international conference.
 - Student Management System
 
 ## 📫 Contact
-- Email: aayush223@gmail.com
+- Email: aaayush223@gmail.com
 - LinkedIn: <http://www.linkedin.com/in/ayush-pandey-786r1>
